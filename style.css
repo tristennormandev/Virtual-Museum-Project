@@ -1,0 +1,48 @@
+.forum-regular {
+    font-family: "Forum", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+
+.nav-item .inactive {
+ color: white;
+}
+
+#importantnav {
+  color: white;
+  background-color: #344CB7;
+ }
+
+ #profile {
+  display: flex;
+  justify-content: center;
+ }
+
+ #custombutton1 {
+  width: 5rem;
+  height: 5rem;
+  background-color: #344CB7;
+ }
+
+ html, #bodyedu {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+#primarypage2 {
+  flex: 1;
+}
+
+#footeredu {
+  margin-top: auto;
+}
+
+#edubg {
+  background-color: #343a40;
+}
+
+#cardpbg {
+  background-color: #343a40;
+}
